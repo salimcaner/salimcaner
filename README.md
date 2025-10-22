@@ -1,7 +1,12 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salimcaner/salimcaner/main/banner.png" alt="Salim Caner GitHub Banner" width="100%"/>
+</p>
 
-<!-- Dynamic title -->
+<!-- Dynamic Title -->
+<h1 align="center">👋 Hi, I'm Salim Caner</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=23&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Junior+Backend+Developer;Cloud+Developer;AI+Enthusiast;FastAPI+and+Azure+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=23&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Junior+Backend+%26+Cloud+Developer" alt="Typing SVG" />
 </h3>
 
 ---
@@ -45,6 +50,15 @@
 
 ---
 
+### 🧩 Projects
+
+- **ToDo App** — A task management application built with **FastAPI** and **PostgreSQL**.  
+  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)]()
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)]()
+  *(Ongoing project focused on backend architecture and cloud integration.)*
+
+---
+
 ### 🌍 Connect with Me
 
 <p align="left">
@@ -69,7 +83,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimcaner&layout=compact&theme=github_dark&hide_border=true" height="130" alt="Top Languages"/>
 </p>
 
----
-
-### ⚡ Quote
-> “Continuous learning is the key to continuous growth.”
+--
