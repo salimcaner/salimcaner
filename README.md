@@ -1,5 +1,3 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D4;">Salim Caner</span></h1>
 
 <!-- Dynamic title -->
 <h3 align="center">
