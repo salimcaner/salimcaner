@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0078D4;">Salim Caner</span></h1>
-<h3 align="center">💼 Junior Backend & Cloud Developer</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salimcaner&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<!-- Dynamic title -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=23&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Junior+Backend+Developer;Cloud+Developer;AI+Enthusiast;FastAPI+and+Azure+Learner" alt="Typing SVG" />
+</h3>
 
 ---
 
@@ -63,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salimcaner&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimcaner&theme=default&hide_border=true" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salimcaner&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimcaner&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimcaner&layout=compact&theme=default&hide_border=true" height="130" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimcaner&layout=compact&theme=github_dark&hide_border=true" height="130" alt="Top Languages"/>
 </p>
 
 ---
