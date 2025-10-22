@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salimcaner/salimcaner/main/banner.png" alt="Salim Caner GitHub Banner" width="100%"/>
-</p>
-
 <!-- Dynamic Title -->
 <h1 align="center">👋 Hi, I'm Salim Caner</h1>
 <h3 align="center">
