@@ -1,5 +1,4 @@
 <!-- Dynamic Title -->
-<h1 align="center">👋 Hi, I'm Salim Caner</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=23&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Junior+Backend+%26+Cloud+Developer" alt="Typing SVG" />
 </h3>
